@@ -1,3 +1,9 @@
+2.2.1.post3 (2018-07-05)
+-----------------------
+
+* Implemented connection pooling and fixed some cancellation bugs.
+
+
 2.2.1.post2 (2018-06-20)
 -----------------------
 
